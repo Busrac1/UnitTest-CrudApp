@@ -1,0 +1,16 @@
+body {
+  background-color: #ececec; 
+  color:  #385170;
+}
+
+.terms{
+  position: relative;
+  white-space: nowrap;
+}
+
+.terms p{
+  position: absolute;
+  top: -60px
+  ;
+  left: -20px;
+}
